@@ -1,6 +1,10 @@
-% Gradient Descent
-% Adam Montgomery
-% 1/29/19
+---
+title: Gradient Descent
+author: Adam Montgomery
+date: 1/29/19
+geometry: margin=3cm
+output: pdf_document
+---
 
 # Overview
 Gradient descent is a tool used to minimize 
