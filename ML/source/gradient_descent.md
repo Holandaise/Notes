@@ -20,3 +20,4 @@ gives us the sum of squares of error for each point in the
 data set vs our predictive function f(x).
 
 # Usage
+
