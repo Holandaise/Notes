@@ -7,6 +7,7 @@ output: pdf_document
 ---
 
 # Overview
+
 Gradient descent is a tool used to minimize
 error between some function and actual data.
 We use gradient descent to dynamically modify
